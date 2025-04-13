@@ -1,0 +1,1 @@
+It stores the spectrogram, correlation, boxplot etc after the user's audio has been analyzed
